@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function index() {
   return (
-    <div>index</div>
+    <div>Hello world, I want to sleepppp</div>
   )
 }
 
